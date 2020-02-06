@@ -1,0 +1,6 @@
+edit file 1 in master branch
+edit file 1 in test branch
+master
+edit in master
+feature1
+edit from feature
